@@ -1,1 +1,1 @@
-An project to group the bank customers using unspervised learning algorithms.
+A case study to group the bank customers using unsupervised learning algorithms
